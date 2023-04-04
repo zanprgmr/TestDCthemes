@@ -4,6 +4,8 @@
  * @description Nice view of the mountain in the night time
  * @version 2.3
 */
+@import url("https://discordstyles.github.io/SoftX/RadialGlow.css"); /* RadialGlow effect for avatars. | Remove this line to disable. */
+@import url("https://discordstyles.github.io/Addons/windows-titlebar.css"); /* Windows titlebar. | Remove this line to disable. */
 
 .app-2CXKsg {
     background-image: url(https://images.alphacoders.com/125/1251542.jpg);
