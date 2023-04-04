@@ -18,8 +18,8 @@
   /*
    * SoftX variables
    */
-  /*--background-image: url("https://r4.wallpaperflare.com/wallpaper/410/867/750/vector-forest-sunset-forest-sunset-forest-wallpaper-b3abc35d0d699b056fa6b247589b18a8.jpg"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
-  /*--background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
+  --background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/89/HD_transparent_picture.png"); /* Background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-blur: 0px; /* Blur intensity of --background-image | Must end in px | Default: 0px */
   --accent: 39, 185, 146; /* Colour used around the app. | Values are in R,G,B format. | Default: 0, 231, 169 */
   --channels-width: 300px; /* Width of the channels list. | Default: 300px */
   --guilds-width: 105px; /* Width of the server list. | Default: 105px */
